@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tresenraya.github.io/static/css/main.f9607f05.css",
+    "main.js": "/tresenraya.github.io/static/js/main.f59d8d52.js",
+    "index.html": "/tresenraya.github.io/index.html",
+    "main.f9607f05.css.map": "/tresenraya.github.io/static/css/main.f9607f05.css.map",
+    "main.f59d8d52.js.map": "/tresenraya.github.io/static/js/main.f59d8d52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9607f05.css",
+    "static/js/main.f59d8d52.js"
+  ]
+}
