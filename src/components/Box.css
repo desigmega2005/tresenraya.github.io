@@ -1,0 +1,39 @@
+.box {
+    background-color: rgba(255, 255, 255);
+    border: none;
+    border-radius: 10%;
+    box-shadow: 0px 0px 8px #ffffff;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 5em;
+    font-family: "Fredoka", sans-serif;
+    font-weight: bold;
+    line-height: 5rem;
+    margin: 0.5rem;
+    position: relative;
+    transition: all 300ms;
+    font-family: 'Roboto' ,sans-serif;
+    outline: none;
+  }
+
+  .box::before{
+    content:'';
+    position: absolute;
+    background-color: red;
+
+  }
+  
+  .x {
+    color: #FC00FF;
+    
+  }
+  
+  .o {
+    color: #00f2ff;
+    
+  }
+  
+  .box:hover {
+    box-shadow: 0px 0px 45px #888888;
+  }

@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  background: radial-gradient( #000000, #434343);
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  text-align:left;
+}
